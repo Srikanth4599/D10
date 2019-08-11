@@ -13,6 +13,13 @@ import org.testng.annotations.Test;
 public class DragAndDropHandling {
 
 	WebDriver d;		
+	
+	@Test 
+	public void sampleElement22() throws Exception {
+	System.out.println("hello");
+	
+	}
+	
 	@Test 
 	public void sampleElement() throws Exception {
    	   
