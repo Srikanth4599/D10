@@ -40,6 +40,7 @@ public class DragAndDropHandling {
 		.perform();
 		
 		System.out.println("Done");
+		System.out.println("Done");
         Thread.sleep(3000);
         
 	}
